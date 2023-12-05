@@ -1,1 +1,1 @@
-# extensions-test-helper-1-l-a
+Simple test extension
